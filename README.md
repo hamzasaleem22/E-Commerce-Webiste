@@ -1,6 +1,7 @@
 # H&S Online Store — Full-Stack E-Commerce Application
 
 A complete e-commerce web application with Node.js backend, MySQL database, and responsive frontend. Features dual-mode operation: full database integration when online, localStorage fallback when offline.
+this is the live link of the full stack webiste https://e-commerce-store-nine-cyan.vercel.app/
 
 Developed by **Hamza Saleem** and **Shuja ul Hassan**.
 
